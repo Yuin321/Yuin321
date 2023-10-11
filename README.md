@@ -10,9 +10,6 @@ I'm a recent Computer Science graduate with a focus on Big Data and Cybersecurit
 🌐 **Online Portfolio**
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/xe-yuin-chong/) for more about my journey.
 
-🔧 **Tools of the Trade**
-- In addition to coding, I have hands-on experience with a wide range of Big Data tools and Cybersecurity frameworks.
-
 💡 **I'm Currently...**
 - Actively seeking opportunities in the field of Data Analysis, Big Data, and Cybersecurity.
 
