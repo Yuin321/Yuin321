@@ -12,7 +12,6 @@ I'm a recent Computer Science graduate with a focus on Big Data and Cybersecurit
 
 🔧 **Tools of the Trade**
 - In addition to coding, I have hands-on experience with a wide range of Big Data tools and Cybersecurity frameworks.
-- 
 
 💡 **I'm Currently...**
 - Actively seeking opportunities in the field of Data Analysis, Big Data, and Cybersecurity.
