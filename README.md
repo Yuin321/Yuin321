@@ -4,7 +4,7 @@ I'm a recent Computer Science graduate with a focus on Big Data and Cybersecurit
 
 🚀 **Skills and Technologies**
 - Proficient in R, Python, SQL, JavaScript, HTML, and CSS.
-- Strong foundation in Big Data analytics.
+- Strong foundation in UI/UX Design
 - Knowledge of various penetration testing tools and Kali Linux.
 
 🌐 **Online Portfolio**
